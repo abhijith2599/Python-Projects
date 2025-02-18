@@ -58,9 +58,9 @@ class ABC_BANK:
 
         if days_passed > 0:
 
-            interest_rate_savings = 0.04  # 4% annual interest
+            interest_rate_savings = 0.04  
             daily_interest_savings = (account["balance"] * interest_rate_savings) / 365
-            account["balance"] += round(daily_interest_savings * days_passed, 2)  # Rounding to 2 decimal places
+            account["balance"] += round(daily_interest_savings * days_passed, 2)  
 
             interest_rate_loan=0.08
             if account['loan']>0:
