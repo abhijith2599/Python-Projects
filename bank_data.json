@@ -1,0 +1,34 @@
+{
+    "575546": {
+        "name": "Abhijith",
+        "phone_number": 9496630187,
+        "password": 1625,
+        "balance": 255058.45,
+        "loan": 280065.75,
+        "last_interest_date": "2025-02-18"
+    },
+    "876407": {
+        "name": "Jerin",
+        "phone_number": 9061941240,
+        "password": 2528,
+        "balance": 35805.56,
+        "loan": 0,
+        "last_interest_date": "2025-02-18"
+    },
+    "854823": {
+        "name": "Sandra",
+        "phone_number": 8129485862,
+        "password": 1116,
+        "balance": 204500.0,
+        "loan": 80000.0,
+        "last_interest_date": "2025-02-18"
+    },
+    "229886": {
+        "name": "Janita",
+        "phone_number": 1234567896,
+        "password": 6969,
+        "balance": 49453.0,
+        "loan": 0,
+        "last_interest_date": "2025-02-18"
+    }
+}
